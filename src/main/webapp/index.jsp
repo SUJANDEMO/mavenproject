@@ -41,7 +41,7 @@
             <li><strong>Gain hands-on experience with industry-standard tools</strong></li>
             <li><strong>Join withus and thanks for choosing devops course</strong></li>
             <li><b> learn here and lead anywhere!!!!!!!!</b></li>
-            <li><b> This updated by coding group!!!!!!!!</b></li>
+            <li><b> This updated by coding group 13112023!!!!!!!!</b></li>
         </ul>
     </div>
 </body>
